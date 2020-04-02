@@ -52,9 +52,9 @@ void calculate(int serv_time)
 
 
 	awt = wt / n;
-	att = tt / n;
+	
 	printf("\n\nAverage waiting time:\t%f\n", awt);
-	printf("Average Turnaround Time:\t%f\n", att);
+	
 
 }
 
